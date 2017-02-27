@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidActivity2</string>
+    <string name="helloText">Hello World!!</string>
+    <string name="buttonText">Next Activity</string>
+    <string name="byeText">Bye World!!</string>
+
+    <string name="textFirstView">Message</string>
+    <string name="textFirstEdit">Hello</string>
+    <string name="textSecondView">Number of times</string>
+    <string name="textSecondEdit">1</string>
+
+    <string name="button2Text">Go Back</string>
+</resources>
